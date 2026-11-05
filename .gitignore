@@ -1,0 +1,9 @@
+# La voz original y todo lo que la contenga NO se publica.
+# Solo se versionan el README, el guion y los posts.
+*
+!.gitignore
+!README.md
+!salidas/
+salidas/*
+!salidas/guion.json
+!salidas/posts.md
